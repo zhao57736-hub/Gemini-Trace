@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Trace",
+  "version": "1.0",
+  "description": "在右侧添加可视化的对话历史导航地图",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
