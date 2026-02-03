@@ -25,8 +25,9 @@
 6. **选择文件夹**: 选择你刚才解压的文件夹即可。
 
 ## 🖼️ 预览截图
+<img width="315" height="226" alt="image" src="https://github.com/user-attachments/assets/8b66db85-fa58-424c-99ac-341ac30d8af7" />
 
-(建议你在这里放一张你刚才做的侧边栏截图，只需把图片拖到这个编辑框里即可生成链接)
+
 
 ## 🤝 贡献与反馈
 
